@@ -1,11 +1,12 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
+import { DogImagesContainer } from './DogImagesContainer';
 
 const App = () => {
   return (
-    <>
-      <h1>App</h1>
-    </>
+    <div className="App">
+      <h1>Browse Dog Images</h1>
+      <DogImagesContainer />
+    </div>
   );
 };
 
