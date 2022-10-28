@@ -1,0 +1,22 @@
+{
+  "name": "container-presentation",
+  "version": "1.0.0",
+  "description": "Examples of container presentation",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "keywords": [
+    "react",
+    "patterns"
+  ],
+  "author": "Phu Phan",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "process": "^0.11.10",
+    "parcel": "^2.7.0"
+  }
+}

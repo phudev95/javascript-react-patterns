@@ -1,0 +1,14 @@
+{
+  "name": "javascript-patterns",
+  "version": "1.0.0",
+  "description": "Examples of JavaScript Patterns",
+  "scripts": {
+    "start": "npx serve ." 
+  },
+  "keywords": [
+    "javascript",
+    "patterns"
+  ],
+  "author": "Phu Phan",
+  "license": "MIT"
+}
